@@ -1,5 +1,3 @@
-using System;
-
 namespace calculadora_beneficios.Utils;
 
 public class Constants
