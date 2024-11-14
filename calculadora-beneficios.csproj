@@ -7,4 +7,8 @@
     <RootNamespace>calculadora_beneficios</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="7.0.0" />
+  </ItemGroup>
+
 </Project>
