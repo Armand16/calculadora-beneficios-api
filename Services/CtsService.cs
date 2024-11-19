@@ -1,3 +1,4 @@
+using calculadora_beneficios.Models.Requests;
 using calculadora_beneficios.Utils;
 
 namespace calculadora_beneficios.Services;
